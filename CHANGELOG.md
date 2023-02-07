@@ -2,3 +2,4 @@
 - Create the repo, and add a new CHANGLOG file.
 - added Homework-1 file 1/22/2023
 - added Homework2.cs file 1/29/2023
+- added Homework3.cs file 2/6/2023
